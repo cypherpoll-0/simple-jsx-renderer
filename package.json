@@ -1,0 +1,14 @@
+{
+  "name": "jsx-renderer",
+  "version": "1.0.0",
+  "description": "demo jsx rendere",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayush Kedia",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.23.0"
+  }
+}
